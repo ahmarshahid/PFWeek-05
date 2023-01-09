@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+bool iftrue(string symmetrical);
+
+main()
+{
+int number;
+cout << " Enter the number"<<endl;
+cin >> number;
+if (number==
+
+}
